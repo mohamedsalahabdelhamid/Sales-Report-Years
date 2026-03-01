@@ -1,5 +1,6 @@
 📊 Sales Report – Multi-Year Performance Dashboard
 Excel | Power Query | Interactive Reporting
+
 📌 Project Overview
 
 This project presents a multi-year sales performance analysis dashboard built entirely using Microsoft Excel with advanced BI techniques.
@@ -20,6 +21,7 @@ Categories
 
 Shipping Modes
 
+
 🎯 Business Objective
 
 The goal of this project was to provide decision-makers with:
@@ -37,6 +39,7 @@ Shipping method performance breakdown
 Year-over-Year filtering capability
 
 🛠 Technical Implementation
+
 🔹 1️⃣ Data Preparation – Power Query (ETL)
 
 Cleaned raw transactional data
@@ -48,6 +51,7 @@ Removed duplicates
 Structured fact and dimension tables
 
 Prepared data for relational modeling
+
 
 🔹 2️⃣ Data Modeling – Power Pivot
 
@@ -85,6 +89,7 @@ State Sales Aggregation
 Dynamic filtering by Year
 
 📊 Dashboard Highlights
+
 🔸 KPI Section
 
 💰 Total Sales: $977,995.90
